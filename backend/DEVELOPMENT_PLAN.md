@@ -48,11 +48,11 @@ This project aims to develop a smart, AI-based traffic management system that mo
 ## Progress Tracking
 - [x] Day 1: Backend architecture, API design, DB schema
 - [x] Day 2: Project setup, basic endpoints
-- [ ] Day 3: Traffic data routes, dummy data, DB connection
-- [ ] Day 4: Signal timing logic, emergency override API
-- [ ] Day 5: Traffic simulation, emergency vehicle logic
-- [ ] Day 6: AI logic integration, AI endpoints
-- [ ] Day 7: Logging, error handling
+- [x] Day 3: Traffic data routes, dummy data, DB connection
+- [x] Day 4: Signal timing logic, emergency override API
+- [x] Day 5: Traffic simulation, emergency vehicle logic
+- [x] Day 6: AI logic integration, AI endpoints
+- [x] Day 7: Logging, error handling
 - [ ] Day 8: Backend deployment, security
 - [ ] Day 9: API docs, bug fixes
 - [ ] Day 10: Report, README, future scope
